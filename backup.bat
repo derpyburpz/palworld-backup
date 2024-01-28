@@ -5,4 +5,4 @@ copy "C:\Program Files (x86)\Steam\steamapps\common\PalServer\Pal\Saved\SaveGame
 copy "C:\Program Files (x86)\Steam\steamapps\common\PalServer\Pal\Saved\Config\WindowsServer\GameUserSettings.ini" .
 git add .
 git commit -m "Automated backup commit"
-git push origin master
+git push
